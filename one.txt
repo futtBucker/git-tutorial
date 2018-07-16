@@ -1,3 +1,4 @@
 one
 satu
 1
+uno
